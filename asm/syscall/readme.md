@@ -1,0 +1,2 @@
+# Systemcall
+Sistem operasi linux khususnya dia menyediakan mekanisme system call yang memungkinkan nanti program di user space berinteraksi dengan si kernelnya. _Kernel ini inti dari sistem operasi yang memiliki kontrol penuh atas si perangkat keras jadi system call inilah yang membantu berkomunikasi antar program user dan kernel
